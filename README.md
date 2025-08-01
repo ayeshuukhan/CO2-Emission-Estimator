@@ -34,9 +34,3 @@ A CSV file containing:
 - Emissions
 
 
----
-
-
-
-3. Run the notebook or Python script
-
