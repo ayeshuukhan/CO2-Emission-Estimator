@@ -2,10 +2,10 @@
 
 This mini project uses a **linear regression model** to predict the **CO2 emission** of vehicles based on their **engine size**.
 
-## 📊 Project Objective
+## Project Objective
 To analyze the relationship between engine size and CO2 emissions, and build a predictive model using machine learning (linear regression).
 
-## 🧠 What the Model Does
+## What the Model Can Do
 - Trains a linear regression model on real vehicle data
 - Predicts emission levels based on engine size
 - Evaluates performance using metrics:
@@ -15,30 +15,24 @@ To analyze the relationship between engine size and CO2 emissions, and build a p
   - R² Score
 - Visualizes results with a scatter plot and regression line
 
-## 🗂️ Technologies Used
-- Python 🐍
+## Tech Used
+- Python 
 - Scikit-learn
 - Matplotlib
 - NumPy
 - Pandas
 
-## 📈 Sample Output
+## Output
 - MAE: 27.51
 - MSE: 1284.68
 - RMSE: 35.84
 - R² Score: 0.61
 
-## 📉 Visualization
-A scatter plot of training data and the regression line helps visualize how well the model fits.
-
-## 📁 Dataset
+## Dataset
 A CSV file containing:
 - Engine Size
 - Emissions
 
-## 💡 Future Improvements
-- Use more features like fuel type, cylinders, etc.
-- Try polynomial or multivariate regression for better accuracy
 
 ---
 
