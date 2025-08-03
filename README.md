@@ -1,4 +1,4 @@
-# Car Emission Prediction using Linear Regression 🚗💨
+# CO2 Emission Prediction using Linear Regression 🚗💨
 
 This mini project uses a **linear regression model** to predict the **CO2 emission** of vehicles based on their **engine size**.
 
